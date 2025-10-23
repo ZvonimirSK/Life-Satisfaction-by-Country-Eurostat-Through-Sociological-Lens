@@ -114,7 +114,7 @@ They align with the **EU Digital Decade** strategy, which emphasises reducing *s
 
 ---
 
-## 🔄 How to Reproduce (Step-by-Step for Beginners)
+## How to Reproduce
 
 1. **Install requirements** (you can do this in Google Colab or locally):
 
