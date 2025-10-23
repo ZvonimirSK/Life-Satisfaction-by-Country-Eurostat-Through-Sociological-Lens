@@ -52,6 +52,16 @@ After verifying assumptions, the interaction term was not significant (p = 0.09)
 
 ---
 
+## Figures
+
+**Figure 1.** Adjusted mean life satisfaction by education (controlled for digital skills)  
+![Adjusted means by education](figures/adjusted_means_edu.png)
+
+**Figure 2.** Relationship between digital competence and life satisfaction by education group (parallel slopes ≈ no interaction)  
+![Digital skills by education](figures/digital_skills_by_edu.png)
+
+---
+
 # Results
 
 | Effect | F | p | partial η² | Interpretation |
@@ -89,7 +99,7 @@ These caveats are explicitly acknowledged to maintain methodological transparenc
 
 ---
 # Conclusion
-## Policy Implications
+## EU Policy Implications
 
 The findings highlight how strengthening both **educational systems** and **digital skills programmes** can yield complementary gains in subjective well-being.  
 They align with the **EU Digital Decade** strategy, which emphasises reducing *second-level* digital divides (skills and outcomes), and support viewing digital competence as a key dimension of social inclusion.
@@ -104,16 +114,18 @@ They align with the **EU Digital Decade** strategy, which emphasises reducing *s
 
 ---
 
-# Figures
+## 🔄 How to Reproduce (Step-by-Step for Beginners)
 
-**Figure 1.** Adjusted mean life satisfaction by education (controlled for digital skills). figures/adjusted_means_edu.png
-**Figure 2.** Relationship between digital competence and life satisfaction by education group (parallel slopes ≈ no interaction). digital_skills_by_edu.png
+1. **Install requirements** (you can do this in Google Colab or locally):
+
+   ```bash
+   pip install -r requirements.txt
 
 ---
-
+   
 # Citation
 Data: Eurostat (EU-SILC 2023; DESI 2023)  
 Author & AI Assistance: This analysis and report were authored by Zvonimir Škrinjarić. Drafting, code refactoring, and statistical coaching were supported by an AI assistant (ChatGPT, “GPT-5 Thinking”) for tasks such as: code scaffolding (pandas/statsmodels), assumption checks, effect size computation, and editorial polishing. All data handling, model choices, interpretation, and final decisions were reviewed and validated by the author.
 
-License: MIT
+
 
