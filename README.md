@@ -41,7 +41,7 @@ After verifying assumptions, the interaction term was not significant (p = 0.09)
 
 ---
 
-### Model checks
+## Model checks
 
 | Assumption | Test | Result | Interpretation |
 |-------------|------|---------|----------------|
@@ -77,7 +77,7 @@ The interaction was not significant (p = .09). Substantively, the slope of digit
 
 ---
 
-# Limitations and Methodological Notes
+## Limitations and Methodological Notes
 **Analytical level:** The analysis is ecological (country × education aggregates). Results describe structural relationships, not individual causation.  
 **Measurement:** Life satisfaction is a pseudo-interval variable (1–3), derived from categorical survey data.  
 **Model:** Only the *above-basic* DESI indicator was used; other digital subindices (connectivity, human capital) were not included.  
@@ -88,15 +88,15 @@ The interaction was not significant (p = .09). Substantively, the slope of digit
 These caveats are explicitly acknowledged to maintain methodological transparency.
 
 ---
-
-# Policy Implications
+# Conclusion
+## Policy Implications
 
 The findings highlight how strengthening both **educational systems** and **digital skills programmes** can yield complementary gains in subjective well-being.  
 They align with the **EU Digital Decade** strategy, which emphasises reducing *second-level* digital divides (skills and outcomes), and support viewing digital competence as a key dimension of social inclusion.
 
 ---
 
-# Future Directions
+## Future Directions
 
 - Expand the analysis to **regional (NUTS2)** levels to test **Wallerstein’s core–periphery** dynamics within Europe.  
 - Integrate **Luhmann’s systems theory** or **Actor–Network Theory (ANT)** to conceptualise technology as an active agent in social differentiation.  
