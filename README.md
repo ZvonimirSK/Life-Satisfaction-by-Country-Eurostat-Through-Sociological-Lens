@@ -113,14 +113,6 @@ They align with the **EU Digital Decade** strategy, which emphasises reducing *s
 - Integrate **Luhmann’s systems theory** or **Actor–Network Theory (ANT)** to conceptualise technology as an active agent in social differentiation.  
 - Extend the model with economic (GDP), institutional (trust), and psychological (health, autonomy) variables for a multidimensional perspective on well-being.
 
----
-
-## How to Reproduce
-
-1. **Install requirements** (you can do this in Google Colab or locally):
-
-   ```bash
-   pip install -r requirements.txt
 
 ---
    
