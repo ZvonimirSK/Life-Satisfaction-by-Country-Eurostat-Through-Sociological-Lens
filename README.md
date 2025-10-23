@@ -106,8 +106,8 @@ They align with the **EU Digital Decade** strategy, which emphasises reducing *s
 
 # Figures
 
-**Figure 1.** Adjusted mean life satisfaction by education (controlled for digital skills).  
-**Figure 2.** Relationship between digital competence and life satisfaction by education group (parallel slopes ≈ no interaction).
+**Figure 1.** Adjusted mean life satisfaction by education (controlled for digital skills). figures/adjusted_means_edu.png
+**Figure 2.** Relationship between digital competence and life satisfaction by education group (parallel slopes ≈ no interaction). digital_skills_by_edu.png
 
 ---
 
