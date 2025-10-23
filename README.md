@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZvonimirSK/Life-Satisfaction-by-Country-Eurostat-Through-Sociological-Lens/blob/main/notebooks/life_satisfaction_analysis.ipynb)
 # Education, Digital Skills, and Life Satisfaction in Europe (ANCOVA Study, 2023)
 This mini-project investigates how educational attainment (Bourdieu’s cultural capital) and digital competence (van Dijk’s digital divide framework) jointly relate to life satisfaction across European countries (EU-SILC & DESI 2023).
 An Analysis of Covariance (ANCOVA) was used to test whether differences in life satisfaction between education levels remain significant after controlling for national digital skills.
