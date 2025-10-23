@@ -29,7 +29,7 @@ Units. EU/EEA countries where both EU-SILC and DESI were available in 2023.
 | `above_basic_digital_skills` | DESI 2023                 | Covariate                    | % of population with advanced digital skills                   |
 
 
-# ANCOVA
+## ANCOVA
 
 An ANCOVA was conducted to test whether educational differences in life satisfaction persist after adjusting for national levels of digital competence.
 
@@ -52,7 +52,7 @@ After verifying assumptions, the interaction term was not significant (p = 0.09)
 
 ---
 
-### Results
+# Results
 
 | Effect | F | p | partial η² | Interpretation |
 |---------|---|---|-------------|----------------|
